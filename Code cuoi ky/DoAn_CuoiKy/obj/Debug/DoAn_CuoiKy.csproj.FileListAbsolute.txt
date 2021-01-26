@@ -1,0 +1,7 @@
+D:\ĐH SPKT\Năm 2\HK1\Lập trình hướng đối tượng\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.exe.config
+D:\ĐH SPKT\Năm 2\HK1\Lập trình hướng đối tượng\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.exe
+D:\ĐH SPKT\Năm 2\HK1\Lập trình hướng đối tượng\DoAn_CuoiKy\DoAn_CuoiKy\bin\Debug\DoAn_CuoiKy.pdb
+D:\ĐH SPKT\Năm 2\HK1\Lập trình hướng đối tượng\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csprojAssemblyReference.cache
+D:\ĐH SPKT\Năm 2\HK1\Lập trình hướng đối tượng\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.csproj.CoreCompileInputs.cache
+D:\ĐH SPKT\Năm 2\HK1\Lập trình hướng đối tượng\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.exe
+D:\ĐH SPKT\Năm 2\HK1\Lập trình hướng đối tượng\DoAn_CuoiKy\DoAn_CuoiKy\obj\Debug\DoAn_CuoiKy.pdb
